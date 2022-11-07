@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="./css/style.css" />
 
-    <link rel="icon" href="./img/icon.ico" type="image/x-icon" />
+    <link rel="icon" href="./img/favicon (2).ico" type="image/x-icon" />
 
     <title>Vegetable Juice</title>
   </head>

@@ -1,1 +1,1 @@
-moderatorpage
+moderator-page

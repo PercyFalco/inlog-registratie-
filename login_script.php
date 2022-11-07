@@ -28,7 +28,7 @@
                 //'root', 'admin', 'customer', 'moderator' 
                 switch($record["userrole"]) {
                     case 'customer' :
-                        header("location: ./index.php?content=c-home");
+                        header("location: ./index.php?content=c-customerpage");
                     break;
                     case 'root' :
                         header("location: ./index.php?content=r-home");

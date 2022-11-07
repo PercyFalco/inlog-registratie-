@@ -25,9 +25,9 @@ $active = isset($_GET["content"]) ? $_GET["content"] : ""; ?>
                 break;
             case "customer":
                 echo '<li class="nav-item ';
-                echo in_array($active, ["c-home", ""]) ? "active" : "";
+                echo in_array($active, ["c-customerpage", ""]) ? "active" : "";
                 echo '">
-          <a class="nav-link" href="./index.php?content=c-home";>Home <span class="sr-only"></span></a>
+          <a class="nav-link" href="./index.php?content=c-customerpage";>Home <span class="sr-only"></span></a>
         </li>';
                 break;
             case "moderator":
@@ -120,7 +120,7 @@ $active = isset($_GET["content"]) ? $_GET["content"] : ""; ?>
                   break;
               case "customer":
                   echo '<li class="nav-item ';
-                  echo $active == "customerpage" ? "active" : "";
+                  echo $active == "c-customerpage" ? "active" : "";
                   echo '">
                     <a class="nav-link" href="./index.php?content=c-customerpage">customerpage</a>
                   </li>';

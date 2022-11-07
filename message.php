@@ -22,7 +22,7 @@ switch ($alert) {
     case "register-error":
         echo '<div class="alert alert-danger mt-5 w-50 mx-auto" role="alert">
           Er is iets fout gegaan in het registratieproces... Probeer het nogmaals of neem contact op
-          met sherickeksteen5@outlook.com
+          met falcowollaars@outlook.com
         </div>';
         header("Refresh: 3; ./index.php?content=register");
 

@@ -3,5 +3,6 @@
         include("./" . $_GET["content"] . ".php");
     } else {
         include("./home.php");
+        include("./bmi.php");
     }
 ?>

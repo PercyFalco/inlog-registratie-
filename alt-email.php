@@ -23,7 +23,7 @@ $message = '<!doctype html>
                     <p>' . $array["date"] . ' - ' . $array["time"] . '</p>
                     <h2>Beste gebruiker</h2>
                     <p> Beste gebruiker u heeft zich onlangs geregistreed voor de site www.inlogsysteem.nl </p>
-                    <p> Klik href=  <a href="http://www.inlogsysteem.nl/index.php?content=activate&id=' . $id . '&pwh=' . $array['password_hash'] . '">hier</a> voor het activeren en wijzigen van het wachtwoord van uw 
+                    <p> Klik href=  <a href="https://inlogbmi.000webhostapp.com/index.php?content=activate&id=' . $id . '&pwh=' . $array['password_hash'] . '">hier</a> voor het activeren en wijzigen van het wachtwoord van uw 
                     account</p>
                     <p> Bedankt voor het registreren </p>
                     <p> Met vriendelijke groet, </p>

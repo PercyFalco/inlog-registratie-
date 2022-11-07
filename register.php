@@ -14,7 +14,7 @@
       </form>
     </div>
     <div class="col-12 col-sm-6">
-      <img src="./img/egghead.jpg" alt="" class="w-75 mx-auto d-block" />
+      <img src="./img/sonic.jpg" alt="" class="w-75 mx-auto d-block" />
     </div>
   </div>
 </div>
