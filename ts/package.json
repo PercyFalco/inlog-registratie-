@@ -1,0 +1,14 @@
+{
+  "name": "org.vegetablejuice-am1x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "juicing"
+  ],
+  "author": "mitchel",
+  "license": "ISC"
+}
